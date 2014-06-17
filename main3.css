@@ -1,0 +1,46 @@
+
+
+.blue {
+	height: 300px;
+	width: 300px;
+	background-color: blue;
+}
+
+.green {
+	height: 150px;
+	width: 500px;
+	background-color: green;
+	position: absolute;
+	top: 200px;
+	left: 50px;
+}
+
+.smred1 {
+	height: 100px;
+	width: 100px;
+	background-color: red;
+	position: relative;
+	top: 25px;
+	left: 10px;
+	z-index: 1;
+}
+
+.smred2 {
+	height: 100px;
+	width: 100px;
+	background-color: red;
+	position: relative;
+	bottom: 75px;
+	left: 200px;
+	z-index: 1;
+}
+
+.smred3 {
+	height: 100px;
+	width: 100px;
+	background-color: red;
+	position: relative;
+	top: 300px;
+	left: 100px;
+	z-index: 1;
+}
