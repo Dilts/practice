@@ -1,0 +1,13 @@
+.green {
+	float: left;
+	height: 50px;
+	width: 50px;
+	background-color: green;
+}
+
+.red {
+	float: right;
+	height: 50px;
+	width: 50px;
+	background-color: red;
+}
